@@ -1,0 +1,31 @@
+{
+  "image": "ipfs://Qmd7xutsttpxENjEbSSkdK8QgGEgWSVNL3G3i5WQS26hjt/62.png",
+  "description": "",
+  "name": "#62",
+  "id": 62,
+  "dna": "00040003",
+  "Classes": "D",
+  "attributes": [
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1643182446916
+    },
+    {
+      "trait_type": "background",
+      "type_name": "grey.png"
+    },
+    {
+      "trait_type": "middlelogo",
+      "type_name": "salute.png"
+    },
+    {
+      "trait_type": "congra",
+      "type_name": "star.png"
+    },
+    {
+      "trait_type": "logo",
+      "type_name": "red.png"
+    }
+  ]
+}

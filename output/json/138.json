@@ -1,0 +1,31 @@
+{
+  "image": "ipfs://Qmd7xutsttpxENjEbSSkdK8QgGEgWSVNL3G3i5WQS26hjt/138.png",
+  "description": "",
+  "name": "#138",
+  "id": 138,
+  "dna": "00010000",
+  "Classes": "B",
+  "attributes": [
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1643182453312
+    },
+    {
+      "trait_type": "background",
+      "type_name": "grey.png"
+    },
+    {
+      "trait_type": "middlelogo",
+      "type_name": "wine.png"
+    },
+    {
+      "trait_type": "congra",
+      "type_name": "star.png"
+    },
+    {
+      "trait_type": "logo",
+      "type_name": "blue.png"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "ipfs://Qmd7xutsttpxENjEbSSkdK8QgGEgWSVNL3G3i5WQS26hjt/44.png",
+  "description": "",
+  "name": "#44",
+  "id": 44,
+  "dna": "03040404",
+  "Classes": "D",
+  "attributes": [
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1643182445410
+    },
+    {
+      "trait_type": "background",
+      "type_name": "yellow.png"
+    },
+    {
+      "trait_type": "middlelogo",
+      "type_name": "salute.png"
+    },
+    {
+      "trait_type": "congra",
+      "type_name": "pink.png"
+    },
+    {
+      "trait_type": "logo",
+      "type_name": "purple.png"
+    }
+  ]
+}

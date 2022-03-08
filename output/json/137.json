@@ -1,0 +1,31 @@
+{
+  "image": "ipfs://Qmd7xutsttpxENjEbSSkdK8QgGEgWSVNL3G3i5WQS26hjt/137.png",
+  "description": "",
+  "name": "#137",
+  "id": 137,
+  "dna": "02020104",
+  "Classes": "B",
+  "attributes": [
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1643182453235
+    },
+    {
+      "trait_type": "background",
+      "type_name": "pink.png"
+    },
+    {
+      "trait_type": "middlelogo",
+      "type_name": "champagne.png"
+    },
+    {
+      "trait_type": "congra",
+      "type_name": "welldone.png"
+    },
+    {
+      "trait_type": "logo",
+      "type_name": "purple.png"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "ipfs://Qmd7xutsttpxENjEbSSkdK8QgGEgWSVNL3G3i5WQS26hjt/65.png",
+  "description": "",
+  "name": "#65",
+  "id": 65,
+  "dna": "02020204",
+  "Classes": "C",
+  "attributes": [
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1643182447161
+    },
+    {
+      "trait_type": "background",
+      "type_name": "pink.png"
+    },
+    {
+      "trait_type": "middlelogo",
+      "type_name": "champagne.png"
+    },
+    {
+      "trait_type": "congra",
+      "type_name": "green.png"
+    },
+    {
+      "trait_type": "logo",
+      "type_name": "purple.png"
+    }
+  ]
+}

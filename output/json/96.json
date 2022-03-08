@@ -1,0 +1,31 @@
+{
+  "image": "ipfs://Qmd7xutsttpxENjEbSSkdK8QgGEgWSVNL3G3i5WQS26hjt/96.png",
+  "description": "",
+  "name": "#96",
+  "id": 96,
+  "dna": "01000400",
+  "Classes": "B",
+  "attributes": [
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1643182449669
+    },
+    {
+      "trait_type": "background",
+      "type_name": "red.png"
+    },
+    {
+      "trait_type": "middlelogo",
+      "type_name": "balloon.png"
+    },
+    {
+      "trait_type": "congra",
+      "type_name": "pink.png"
+    },
+    {
+      "trait_type": "logo",
+      "type_name": "blue.png"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": "ipfs://Qmd7xutsttpxENjEbSSkdK8QgGEgWSVNL3G3i5WQS26hjt/135.png",
+  "description": "",
+  "name": "#135",
+  "id": 135,
+  "dna": "00040100",
+  "Classes": "B",
+  "attributes": [
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1643182453054
+    },
+    {
+      "trait_type": "background",
+      "type_name": "grey.png"
+    },
+    {
+      "trait_type": "middlelogo",
+      "type_name": "salute.png"
+    },
+    {
+      "trait_type": "congra",
+      "type_name": "welldone.png"
+    },
+    {
+      "trait_type": "logo",
+      "type_name": "blue.png"
+    }
+  ]
+}

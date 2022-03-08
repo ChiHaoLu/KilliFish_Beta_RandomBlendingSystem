@@ -1,0 +1,36 @@
+
+    - Produce 150 KF
+    - Version: Beta_1.0
+    --------------------Logo STATIC----------------------------
+    There are 35 Blue
+              31 Green
+              31 Yellow
+              21 Red
+              32 Purple
+    --------------------Congra STATIC-------------------------------
+    There are 33 Star
+              29 WellDone 
+              26 Green 
+              25 Science 
+              37 Pink 
+    --------------------MiddleLogo STATIC-------------------------------
+    There are 25 Balloon
+              27 Wine
+              38 Champagne
+              29 Beer
+              31 Salute
+    --------------------BACKGROUND_COLOR STATIC--------------------
+    There are 18 Grey Background
+              21 Red Background
+              16 Pink Background
+              15 Yellow Background
+              15 Orange Background
+              16 Green Background
+              22 Blue Background
+              11 Cloud Background
+              16 Purple Background
+    --------------------Classes STATIC------------------------------
+    There are 32 Certificate born at A
+              40 Certificate born at B
+              41 Certificate born at C
+              37 Certificate born at D

@@ -1,0 +1,31 @@
+{
+  "image": "ipfs://Qmd7xutsttpxENjEbSSkdK8QgGEgWSVNL3G3i5WQS26hjt/48.png",
+  "description": "",
+  "name": "#48",
+  "id": 48,
+  "dna": "06030200",
+  "Classes": "D",
+  "attributes": [
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1643182445738
+    },
+    {
+      "trait_type": "background",
+      "type_name": "blue.png"
+    },
+    {
+      "trait_type": "middlelogo",
+      "type_name": "beer.png"
+    },
+    {
+      "trait_type": "congra",
+      "type_name": "green.png"
+    },
+    {
+      "trait_type": "logo",
+      "type_name": "blue.png"
+    }
+  ]
+}

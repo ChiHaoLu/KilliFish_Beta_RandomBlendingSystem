@@ -1,0 +1,31 @@
+{
+  "image": "ipfs://Qmd7xutsttpxENjEbSSkdK8QgGEgWSVNL3G3i5WQS26hjt/43.png",
+  "description": "",
+  "name": "#43",
+  "id": 43,
+  "dna": "08020301",
+  "Classes": "C",
+  "attributes": [
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1643182445331
+    },
+    {
+      "trait_type": "background",
+      "type_name": "purple.png"
+    },
+    {
+      "trait_type": "middlelogo",
+      "type_name": "champagne.png"
+    },
+    {
+      "trait_type": "congra",
+      "type_name": "science.png"
+    },
+    {
+      "trait_type": "logo",
+      "type_name": "green.png"
+    }
+  ]
+}

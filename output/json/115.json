@@ -1,0 +1,31 @@
+{
+  "image": "ipfs://Qmd7xutsttpxENjEbSSkdK8QgGEgWSVNL3G3i5WQS26hjt/115.png",
+  "description": "",
+  "name": "#115",
+  "id": 115,
+  "dna": "02010103",
+  "Classes": "D",
+  "attributes": [
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1643182451223
+    },
+    {
+      "trait_type": "background",
+      "type_name": "pink.png"
+    },
+    {
+      "trait_type": "middlelogo",
+      "type_name": "wine.png"
+    },
+    {
+      "trait_type": "congra",
+      "type_name": "welldone.png"
+    },
+    {
+      "trait_type": "logo",
+      "type_name": "red.png"
+    }
+  ]
+}
